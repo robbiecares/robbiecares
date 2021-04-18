@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @robbiecares
-- 👀 I’m interested in cooking, space, US politics, the environment and systems/processes of many types...
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on anything related to Python. My current project is building a resume site to showcase my work.
-- 📫 How to reach me: robbiecares@gmail.com
+Hi,
+I’m Rob! I'm currently interested in learning Python so that I can do cool things like analyze datasets, automate tasks on my PC and develop websites. I hope to one day work as a developer. Aside from this, my other hobbies include cooking, living sustainably and attempting to follow US politics.
+I document my code learning on a website I've created, https://robbiecares.herokuapp.com/. It's not much at the moment but it will improve as I continue to learn. if you're interested in learning more, send me a pull request or contact at robbiecares@gmail.com.
 
 <!---
 robbiecares/robbiecares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
